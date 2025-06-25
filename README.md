@@ -1,7 +1,6 @@
 # Rubik's Cube Simulator (Basic Version)
 
 ![Screenshot 2025-06-26 011904](https://github.com/user-attachments/assets/0388f759-416e-436f-8600-8d4ce786b973)
-![Screenshot 2025-06-26 011904](https://github.com/user-attachments/assets/0388f759-416e-436f-8600-8d4ce786b973)
 
 A ReactJS application that provides a basic simulation of a 3x3 Rubik's Cube with manual rotation controls.
 
