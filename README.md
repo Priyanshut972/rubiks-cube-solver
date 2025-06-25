@@ -66,3 +66,7 @@ Simple scrambling
 Partial solving implementation (demonstrates first few moves)
 
 2D visualization only
+
+# Project Structure
+
+![image](https://github.com/user-attachments/assets/158f6189-fdb6-4246-b1f7-37473a006a20)=
