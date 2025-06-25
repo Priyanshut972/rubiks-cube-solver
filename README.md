@@ -23,7 +23,7 @@ A ReactJS application that provides a basic simulation of a 3x3 Rubik's Cube wit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rubiks-cube-simulator.git
+   git clone [https://github.com/your-username/rubiks-cube-simulator.git](https://github.com/Priyanshut972/rubiks-cube-solver.git)
 
 # Navigate to project directory:
 
